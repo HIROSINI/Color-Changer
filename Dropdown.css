@@ -1,0 +1,35 @@
+body
+{
+    margin-top: 130px;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/003/557/256/original/abstract-blue-and-orange-wave-business-background-free-vector.jpg');
+    background-repeat: no-repeat;
+    margin-left: 400px;
+    background-size: 1300px 900px;
+}
+p
+{
+    font-size: 22px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+h1
+{
+    font-weight: bolder;
+    text-decoration: underline;
+    margin-left: 10%;
+    color:darkblue;
+    font-family: fantasy;
+    letter-spacing: 3px;
+    text-shadow: 2px 2px rgb(103, 103, 205);
+}
+.select{
+    padding: 0% 70% 0% 5%;
+    margin-left: 5%;
+}
+.drop{
+    margin: 40px 890px 0px 85px;
+    border: 2px solid black;
+    border-radius: 7px;
+    padding: 90px;
+    text-align: center;
+} 
